@@ -1,6 +1,6 @@
 # ticTacToe
 
-A simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectures to organize the application.
+A   simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectures to organize the application.
 
 The master branch contains just the model - The brains & state of the tic tac toe game.
 
